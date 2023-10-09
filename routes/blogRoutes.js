@@ -31,5 +31,3 @@ router.delete("/delete-blog/:id", deleteBlogController);
 router.get("/user-blog/:id", userBlogController);
 
 module.exports = router;
-
-// https://www.youtube.com/watch?v=EY5Kbt0sx5g >> BLOG API CRUD เเสร็จแล้ว 1.23.00
